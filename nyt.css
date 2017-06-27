@@ -1,0 +1,13 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width: 1600px;
+  margin: 0 auto;
+}
+
+.main-nav{
+  height: 120px;
+  box-shadow: -6px 12px 11px -11px rgba(0,0,0,1);
+}
